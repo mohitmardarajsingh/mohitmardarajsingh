@@ -1,0 +1,205 @@
+<div align="center">
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--                  ANIMATED BANNER                  -->
+<!-- ══════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=3B9EF7&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Mohit+%F0%9F%91%8B;CSE+Diploma+Student+%7C+DRIEMS+Polytechnic;AI+%2F+ML+%E2%80%A2+IoT+%E2%80%A2+Cybersecurity+%E2%80%A2+DevOps;Design+%E2%80%A2+Develop+%E2%80%A2+Deploy)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=mohitmardarajsingh&style=flat-square&color=3B9EF7&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/mohitmardarajsingh?label=Followers&style=flat-square&color=3B9EF7&logo=github)](https://github.com/mohitmardarajsingh?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/mohitmardarajsingh?label=Stars+Earned&style=flat-square&color=3B9EF7&logo=github)](https://github.com/mohitmardarajsingh)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--                   ABOUT ME                        -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+```python
+class Mohit:
+    name       = "Mohit Mardaraj Singh"
+    education  = "Diploma in Computer Science & Engineering (2024–2027)"
+    college    = "DRIEMS Polytechnic, Tangi, Cuttack, Odisha 🇮🇳"
+    interests  = ["AI / ML", "IoT & Robotics", "Cybersecurity", "DevOps", "Frontend Dev"]
+    goal       = "Building secure, intelligent, and impactful software systems"
+    tagline    = "Design  •  Develop  •  Deploy"
+```
+
+I'm a passionate CSE diploma student driven by real-world problem solving at the intersection of **artificial intelligence**, **embedded systems**, and **cybersecurity**. I believe technology should be secure by design, intelligent at the edge, and useful in everyday life.
+
+Whether it's training ML models for phishing detection, wiring up an ESP32 for smart IoT systems, or crafting pixel-perfect frontends — I'm always building.
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--                  TECH STACK                       -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Hardware & Embedded**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--               FEATURED PROJECTS                   -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+| 🔷 Project | 📝 Description | 🏷️ Tags |
+|:---|:---|:---|
+| **🏥 MediBook** | Offline doctor appointment booking platform with doctor profiles, availability timings, clinic addresses, patient reviews, and intelligent sorting | `HTML` `CSS` `JS` `LocalStorage` |
+| **🧠 Quiz Verse** | Interactive multi-topic CS quiz web application with scoring, feedback, and clean UI | `JavaScript` `Frontend` |
+| **🏫 Smart Classroom Scheduler** | SIH 2025 project — classroom and timetable management system for academic institutions | `React` `Scheduling` `SIH2025` |
+| **🤖 Line Follower Robot** | Arduino-based autonomous robot using IR sensors for real-time line tracking | `Arduino` `C` `Robotics` |
+| **🗑️ Smart Dustbin IoT** | IoT-powered automatic waste management system with ultrasonic sensors and servo control | `ESP8266` `IoT` `Arduino` |
+| **🔐 AI Phishing Detector** | ML-based phishing URL classifier using XGBoost, LightGBM & Streamlit dashboard | `Python` `Scikit-learn` `Streamlit` |
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--            EXPERIENCE & ACHIEVEMENTS              -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🏆 Experience & Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏅 Achievements**
+- 🥇 **Polyfest 2024** — State-Level Winner, Scale Model Presentation
+- 💡 **Smart India Hackathon 2025** — Participant (Smart Classroom Scheduler)
+- 🎯 **TryHackMe** — Pre-Security Path Completed
+- 📜 **IEEE Manuscript** — Submitted paper on IoT Anomaly Detection
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Experience**
+- 🔐 **Envistream EduSkill, Bhubaneswar** — Cybersecurity Intern *(AI Phishing Detector)*
+- 🌐 **3Skill** — Frontend Development Intern
+- 🤖 **DRIEMS Projects** — IoT, Robotics & ML academic lead
+- 🔬 **Research** — IEEE/Scopus-targeted IoT & TinyML gap analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--            RESEARCH & INNOVATION                  -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🔬 Research & Innovation Interests
+
+> Exploring the frontier where intelligence meets the physical world.
+
+<div align="center">
+
+`🧠 TinyML & Edge AI` &nbsp;|&nbsp; `📡 IoT Security` &nbsp;|&nbsp; `🏥 Smart Healthcare Systems`
+
+`⚙️ Intelligent Automation` &nbsp;|&nbsp; `🔌 Embedded Systems (ESP32)` &nbsp;|&nbsp; `🌿 Green AI`
+
+`🔐 Adversarial ML` &nbsp;|&nbsp; `📶 LoRaWAN Fault-Tolerant Networks` &nbsp;|&nbsp; `🛡️ Zero-Trust Architecture`
+
+</div>
+
+Currently targeting **IEEE / Scopus** venues with implementable student-level research using low-cost hardware relevant to Odisha's smart infrastructure needs.
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--              GITHUB ANALYTICS                     -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitmardarajsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B9EF7&icon_color=3B9EF7&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmardarajsingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9EF7&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohitmardarajsingh&theme=tokyonight&hide_border=true&background=0D1117&ring=3B9EF7&fire=3B9EF7&currStreakLabel=3B9EF7)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitmardarajsingh&theme=tokyo-night&bg_color=0D1117&color=3B9EF7&line=3B9EF7&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--                 CONNECT WITH ME                   -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohitmardarajsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitmardarajsingh)
+[![Instagram](https://img.shields.io/badge/Instagram-mohiitx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohiitx_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitmardarajsingh)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitmardarajsingh@gmail.com)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--                    FOOTER                         -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   " Building technology that is secure, intelligent, and useful      ║
+║                     for real-world impact. "                         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=3B9EF7&height=100&section=footer&fontColor=ffffff)
+
+</div>
